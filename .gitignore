@@ -1,5 +1,5 @@
 .venv
-django_project/.env
+.env
 db.sqlite3
 
 # Byte-compiled / optimized / DLL files
